@@ -1,31 +1,33 @@
-## Team Name 
-## Project Name
+## Team Name : Warrior
+## Project Name : Rappel
 
 
-## Domain
+## Domain : web development
 
 
 
-## Link to your repository
+## Link to your repository : 
 
-
-## About Project
-
-
+## About Project : A reminder webapp to keep track of all your organisations events
 
 
 
 
 
 
-**Tech stack**:
+
+
+**Tech stack** : React,Nodejs
 
  
 
-## Use Cases of your project
+## Use Cases of your project : 
 
 
-## Team Members
+## Team Members : Ganesh Behera,
+Hrud Narayan Sarangi,
+Bijay Raj Jagat,
+Sibasish Satapathy
 
 
-## References
+## References : npmjs.com,stackoverflow,w3School,geeksforgeeks
