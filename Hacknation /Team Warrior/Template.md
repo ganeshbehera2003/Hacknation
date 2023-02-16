@@ -6,7 +6,7 @@
 
 
 
-## Link to your repository : https://github.com/ganeshbehera2003/front-end.git
+## Link to your repository : https://github.com/ganeshbehera2003/front-end.git, https://github.com/ganeshbehera2003/back-end.git
 
 ## About Project : A reminder webapp to keep track of all your organisations events
 
